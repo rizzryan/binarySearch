@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: binarySearch
+PURPOSE OF PROJECT: Class project
+VERSION or DATE: 3/15/17
+HOW TO START THIS PROJECT: java binarySearch.java
+AUTHORS: Ryan Welch
+USER INSTRUCTIONS: Just read
